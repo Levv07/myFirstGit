@@ -11,7 +11,7 @@ This document is a work product of Workshop 2 for 3813ICT [see task sheet](https
 
 ![](https://i.ibb.co/3FVT9tz/Screen-Shot-2021-07-29-at-5-05-31-pm.png)
 
-##### Instruction
+#### Instruction
 
 1. Either clone or download your copy of the project.
 2. Open your terminal and change the directory to the location of the downloaded file
@@ -19,10 +19,10 @@ This document is a work product of Workshop 2 for 3813ICT [see task sheet](https
 		To view the code on your console type `node index.js`
 		To view the code in a browser open a browser, type `node index.js` in your console, then head back to your brower and type `http://localhost:3000/` into the URL bar.
 
-#### Teaching Plan
+##### Teaching Plan
 
-| Week  | Topic  | 
-|:----------:||:----------:|
+| Week  | Topic |
+| :-------------: | ------------- |
 | 1 | Introduction to JavaScript and Nodejs  |
 | 2 | Code Version Control with Git and GitHub  |
 | 3 | NodeJS as a Server  |
