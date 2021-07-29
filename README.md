@@ -1,5 +1,5 @@
 # 3813ICT Software Frameworks
-## Worksop 2
+## Workshop 2
 
 This document is a work product of Workshop 2 for 3813ICT [see task sheet](https://ibb.co/LgB0X45) the reamiander of this document will guide you through the installation and running the document on your console or web browser.
 
