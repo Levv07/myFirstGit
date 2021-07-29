@@ -8,5 +8,5 @@ app.get("/",(req,res)=>{
 });
 
 app.listen(port,function(){
-  console.log("Hello World, Workshop 2 - 3813ICT Software Frameworks");
+  console.log("I caused a merge conflict");
 });
