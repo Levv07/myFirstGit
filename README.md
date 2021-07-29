@@ -1,7 +1,7 @@
 # 3813ICT Software Frameworks
 ## Workshop 2
 
-This document is a work product of Workshop 2 for 3813ICT [see task sheet](https://ibb.co/LgB0X45) the reamiander of this document will guide you through the installation and running the document on your console or web browser.
+This document is a work product of Workshop 2 for 3813ICT [see task sheet](https://learn-ap-southeast-2-prod-fleet01-xythos.content.blackboardcdn.com/5bb70f08ac35e/9282183?X-Blackboard-Expiration=1627570800000&X-Blackboard-Signature=VUXRjJ5c57LhSkuW%2Fc6wLCgY3AXZHKLRDTjZM96yA6Y%3D&X-Blackboard-Client-Id=101056&response-cache-control=private%2C%20max-age%3D21600&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27Workshop%25202.pdf&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210729T090000Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=AKIAYDKQORRYZBCCQFY5%2F20210729%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Signature=89e7c6469e1e07b5015ec9f7bee44e8f8257867a383750b2fc11a2c774876c40) the reamiander of this document will guide you through the installation and running the document on your console or web browser.
 
 ##### Installation
 
